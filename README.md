@@ -1,9 +1,8 @@
-# Belajar HTML Dasar
+# Belajar HTML dasar
 
-Repository ini berisi latihan dasar HTML sebagai bagian dari proses pembelajaran Web Development.
+Repository ini berisi latihan dasar HTML cevest 
 
-## Materi yang Dipelajari
-
+## Materi 
 - Struktur dasar HTML
 - Heading
 - Paragraph
